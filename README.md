@@ -23,7 +23,7 @@
 <a href="https://twitter.com/@agent_of__chaos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@agent_of__chaos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akash shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash shukla" height="30" width="40" /></a>
 <a href="https://instagram.com/_shukla__akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shukla__akash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akashshukla7458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashshukla7458" height="30" width="40" /></a>
+<a href="https://leetcode.com/agentofchaos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashshukla7458" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
