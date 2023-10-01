@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000)](https://akashshukla7458.io)
+[![MasterHead](https://drive.google.com/file/d/1OQsAsEnq0b9GaGCkOSk5NWaQpb4-oNdg/view?usp=sharing)](https://akashshukla7458.io)
 <h1 align="center">Hi 👋, I'm Akash Shukla</h1>
 <h3 align="center">Aspiring Full Stack Developer and Competitive Programmer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
